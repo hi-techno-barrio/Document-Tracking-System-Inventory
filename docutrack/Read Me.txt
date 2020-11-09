@@ -1,0 +1,12 @@
+===================================================================
+                         INSTALLATION AND CONFIGURATIONS
+===================================================================
+
+1.   Install wamp5_1.7.0 which is in the Server folder
+
+2.   Download DocuTrack
+
+3)   Configure
+
+4)   Dump data
+               
